@@ -1,0 +1,12 @@
+{
+  "name": "@interesting-tasks/react-spot-store",
+  "version": "1.0.0",
+  "private": true,
+  "main": "reactSpotStore.ts",
+  "author": "corocoto <gusev2014russia@mail.ru>",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}
