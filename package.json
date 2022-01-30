@@ -1,0 +1,30 @@
+{
+  "name": "interesting-tasks",
+  "version": "1.0.0",
+  "description": "Various tasks that interesting to resolve",
+  "main": "index.js",
+  "workspaces": [
+    "./packages/*"
+  ],
+  "scripts": {
+    "test:ci": "jest --watchAll=false",
+    "test:watch": "jest --watchAll=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corocoto/test-tasks.git"
+  },
+  "author": "corocoto <gusev2014russia@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corocoto/test-tasks/issues"
+  },
+  "homepage": "https://github.com/corocoto/test-tasks#readme",
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "@babel/core": "^7.16.12",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-typescript": "^7.16.7",
+    "babel-jest": "^27.4.6"
+  }
+}
