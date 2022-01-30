@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository contains various interesting resolved tasks, or that will be resolved.
+This repository contains various interesting resolved tasks, or that will be resolve.
 
 ## Instructions :clipboard:
 
