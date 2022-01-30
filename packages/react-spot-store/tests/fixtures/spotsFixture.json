@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "spot": 1.13,
+      "tickTime": 1642929678003,
+      "ccypairId": 0
+    },
+    {
+      "spot": 1.08,
+      "tickTime": 1642938978453,
+      "ccypairId": 0
+    },
+    {
+      "spot": 1.1,
+      "tickTime": 1642948978453,
+      "ccypairId": 0
+    },
+    {
+      "spot": 0.68,
+      "tickTime": 1642929678003,
+      "ccypairId": 1
+    },
+    {
+      "spot": 0.7,
+      "tickTime": 1642938978453,
+      "ccypairId": 1
+    },
+    {
+      "spot": 0.65,
+      "tickTime": 1642948978453,
+      "ccypairId": 1
+    },
+    {
+      "spot": 77.59,
+      "tickTime": 1642929678003,
+      "ccypairId": 2
+    },
+    {
+      "spot": 77,
+      "tickTime": 1642938978453,
+      "ccypairId": 2
+    },
+    {
+      "spot": 77.32,
+      "tickTime": 1642948978453,
+      "ccypairId": 2
+    }
+  ]
+}

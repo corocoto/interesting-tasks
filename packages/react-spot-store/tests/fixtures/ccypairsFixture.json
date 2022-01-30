@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "name": "EURUSD"
+    },
+    {
+      "id": 1,
+      "name": "JPYRUB"
+    },
+    {
+      "id": 2,
+      "name": "USDRUB"
+    }
+  ]
+}
